@@ -1,4 +1,4 @@
 👋 Hi, I’m @MartsTheDust 👋
-☕ I’m a Java Developer, specializing in back-end development.
-💼 I currently work as a Programmer/Analyst I here in the Philippines.
-🌱 I’m currently trying to explore front-end frameworks to go full stack.
+☕ I’m a Web Developer, specializing in back-end development, but currently practicing front-end.
+💼 I currently work as a Programmer/Analyst here in the Philippines.
+🌱 I use Java for Back-end and React w/ TypeScript for Front-end.
